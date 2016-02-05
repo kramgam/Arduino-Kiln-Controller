@@ -1,5 +1,5 @@
-int soakTemp = 66; //Enter Soak Temp (Degrees Fahrenheit) <------------Changeable
-float soakTime = .2; //Enter Soak Time (Minutes. Enter 0 for no soak time.) <------------Changeable
+int soakTemp = 2050; //Enter Soak Temp (Degrees Fahrenheit) <------------Changeable
+float soakTime = 35; //Enter Soak Time (Minutes. Enter 0 for no soak time.) <------------Changeable
 int rampRate = 10; // heating rate (Degrees Fahrenheit per Minute) <------------Changeable
 
 int thermoDO = 5;
