@@ -1,5 +1,5 @@
 # Arduino-Kiln-Controller
-Basic Arduino kiln controller using Adafruit's MAX31855 thermocouple amplifier board and library. Power switching using solid state relay. Change the ramp rate and soak temp and soak hold time parameters within the main program.
+Basic Arduino kiln controller using Adafruit's MAX31855 thermocouple amplifier board and library (you need to get their library from them). Power switching using solid state relay. Change the ramp rate and soak temp and soak hold time parameters within the main program.
 
 DISCLAIMER:
 I am not a professional programmer. I made this program for my own personal use. This project (at least mine) involves dangerous amounts of power and heat. Enough to cause injury, desruction of property, death, and probably more undesirable things. USE THIS PROGRAM AND INFORMATION AT YOUR OWN RISK. I MAKE NO GUARANTEES OF ANY KIND AND ACCEPT NO LIABILITY. EXPECT THIS PROGRAM TO FAIL, HEAT YOUR KILN TO A BRAZILLION DEGREES, AND BURN THE WHOLE WORLD TO A CRISP. BUT SERIOUSLY, DO NOT LEAVE YOUR KILN UNATTENDED FOR ANY REASON. PLEASE. BE. CAREFUL.
